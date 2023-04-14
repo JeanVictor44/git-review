@@ -6,6 +6,7 @@
 
 4 - git log -> visualizar os commits
     git reflog
+    git log --name-only -> mostra os arquivos que foram alterados no commit
     
 5 - git remote add origin link
 
@@ -13,3 +14,5 @@
     Adiciona uma referência de rastreamento ao servidor. Isso permite
     que você faça um git pull sem fornecer mais argumentos. O git pull
     irá fazer referência direto a origin main
+
+7 - 
