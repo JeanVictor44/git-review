@@ -1,6 +1,15 @@
 1 - git init
+
 2 - git status
+
 3 - git commit -m "mensagem"
+
 4 - git log -> visualizar os commits
+    git reflog
+    
 5 - git remote add origin link
-5 - git push -u origin main -> git push --set-upstream origin main
+
+6 - git push -u origin main -> git push --set-upstream origin main
+    Adiciona uma referência de rastreamento ao servidor. Isso permite
+    que você faça um git pull sem fornecer mais argumentos. O git pull
+    irá fazer referência direto a origin main
