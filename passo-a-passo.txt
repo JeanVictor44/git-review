@@ -9,3 +9,5 @@ Para trabalhar em um projeto com uma equipe seguir os seguintes passos é uma bo
 5. git pull
 6. git merge nomeDaNovaBranch
 7. git push
+
+Vamos entender sobre pull requests!!
