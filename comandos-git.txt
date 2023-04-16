@@ -22,3 +22,7 @@
 9 - git reset --hard hashCode
 
 trabalhando na branch staging
+
+git pull -> trás as atualizações do servidor para sua máquina local para que o merge seja feito na versão mais recente
+git merge staging -> vou na branch principal e rodo esse comando para ter as atualizações da branch staging nela
+git push -> manda as alterações para a main
