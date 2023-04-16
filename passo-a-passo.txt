@@ -8,4 +8,4 @@ Para trabalhar em um projeto com uma equipe seguir os seguintes passos é uma bo
 4. git checkout main
 5. git pull
 6. git merge nomeDaNovaBranch
-7. git push main
+7. git push
