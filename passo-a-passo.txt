@@ -7,7 +7,7 @@ Para trabalhar em um projeto com uma equipe seguir os seguintes passos é uma bo
 5. git push -> copiar e colar o comando para enviar a branch ao repositório remoto
 4. git checkout main
 5. git pull
-6. git merge nomeDaNovaBranch
+6. git merge nomeDaNovaBranch -> cortar essa etapa no caso de precisar enviar um pull request
 7. git push
 
 Vamos entender sobre pull requests!!
