@@ -7,7 +7,7 @@
 4 - git log -> visualizar os commits
     git reflog
     git log --name-only -> mostra os arquivos que foram alterados no commit
-    
+
 5 - git remote add origin link
 
 6 - git push -u origin main -> git push --set-upstream origin main
@@ -15,4 +15,8 @@
     que você faça um git pull sem fornecer mais argumentos. O git pull
     irá fazer referência direto a origin main
 
-7 - 
+7 - git branch -> lista todas as branches locais
+
+8 - git branch -r -> lista as branches remotas
+
+9 - git reset --hard hashCode
