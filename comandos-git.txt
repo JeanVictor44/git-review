@@ -20,3 +20,5 @@
 8 - git branch -r -> lista as branches remotas
 
 9 - git reset --hard hashCode
+
+trabalhando na branch staging
